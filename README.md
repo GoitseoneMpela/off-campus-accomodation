@@ -1,2 +1,2 @@
-# MobileServices
-#### Mobile Services aim to address the unemployment crisis in South Africa, particularly among the youth. This is achieved through an information system that provides a platform as a windows desktop applicaton for individuals with verified skills and qualifications to showcase their freelance services. Potential customers within a chosen radius can use the platform to find and request the services they need.
+# Off-Campus Accomodation
+#### The Off-Campus Accomodation system aims to solve the challenges students face when searching for accomodation near the university.This is achieved through a web based information systemthat allow students to search,view and apply for available accomodation while sitting at home.The system include a real time map and filters features that help students view locations around campus, compare available options, and select accomodation that best suit their needs.
