@@ -7,6 +7,8 @@
 <img src="public/roomDetailsimage.png" width="900" />
 <img src="public/nextOfKinimage.png" width="500" />
 <img src="public/applicationSuccessfulimage.png" width="500" />
+<img src="public/proofimage.png" width="500" />
+
 
 
 
