@@ -18,11 +18,9 @@
   <li>React Context</li>
   <li>React Styled Components</li>
 </ul> 
+<br/>
+
 ## System Architecture:
-#### I have built The application following a <a href="https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html" target="_blank">Clean Architecture</a> design phillosophy by <a href="http://cleancoder.com/products" target="_blank">@Uncle Bob martin</a> to bring about separation of concerns between the Business logic layer and  the Presentation layer to allow for high Perfomance, Maintanability and  Testibility.
+<img width="100%" align="left" src="https://drive.google.com/thumbnail?id=1XeOh0Bo5IEUhhBHAOXi_LE0CBT1Kh38m&sz=w1000"/>
 
-<img width="95%" src="https://drive.google.com/thumbnail?id=1798xH1Oexdi_FggIjq1P1HJx56Pegku2&sz=w1000" />
-
-
-
-
+<br/>
