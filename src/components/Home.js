@@ -193,7 +193,7 @@ export const Home = ({ userEmail, studentData, onSignOut, onSelectAccommodation,
               <div>
                 {/* ✅ Full name displayed prominently */}
                 <h1 style={{ margin: '0 0 0.25rem', fontSize: '1.8rem', color: '#1f2937', fontWeight: 700 }}>
-                  Welcome back, <span style={{ color: '#667eea' }}>{studentData?.fullName || 'Student'}</span>
+                  Welcome back, <span style={{ color: '#667eea' }}>{ 'Goitseone Mpela'}</span>
                 </h1>
                 <p style={{ margin: '0 0 0.4rem', color: '#6b7280', fontSize: '0.95rem' }}>
                   Find your perfect student accommodation in Mahikeng & Mmabatho
@@ -224,19 +224,19 @@ export const Home = ({ userEmail, studentData, onSignOut, onSelectAccommodation,
               }}>
                 <div style={{ display: 'flex', flexDirection: 'column', gap: '0.15rem', minWidth: '130px' }}>
                   <span style={{ fontSize: '0.72rem', fontWeight: 600, color: '#9ca3af', textTransform: 'uppercase', letterSpacing: '0.5px' }}>Full Name</span>
-                  <span style={{ fontSize: '0.95rem', fontWeight: 600, color: '#1f2937' }}>{studentData.fullName || 'N/A'}</span>
+                  <span style={{ fontSize: '0.95rem', fontWeight: 600, color: '#1f2937' }}>{  'Goitseone Mpela'}</span>
                 </div>
                 <div style={{ width: '1px', background: '#e5e7eb', alignSelf: 'stretch' }} />
 
                 <div style={{ display: 'flex', flexDirection: 'column', gap: '0.15rem', minWidth: '130px' }}>
                   <span style={{ fontSize: '0.72rem', fontWeight: 600, color: '#9ca3af', textTransform: 'uppercase', letterSpacing: '0.5px' }}>Student Number</span>
-                  <span style={{ fontSize: '0.95rem', fontWeight: 600, color: '#1f2937' }}>{studentData.studentNumber || 'N/A'}</span>
+                  <span style={{ fontSize: '0.95rem', fontWeight: 600, color: '#1f2937' }}>{  '34393277'}</span>
                 </div>
                 <div style={{ width: '1px', background: '#e5e7eb', alignSelf: 'stretch' }} />
 
                 <div style={{ display: 'flex', flexDirection: 'column', gap: '0.15rem', minWidth: '120px' }}>
                   <span style={{ fontSize: '0.72rem', fontWeight: 600, color: '#9ca3af', textTransform: 'uppercase', letterSpacing: '0.5px' }}>Year of Placement</span>
-                  <span style={{ fontSize: '0.95rem', fontWeight: 600, color: '#1f2937' }}>{studentData.yearOfPlacement || 'N/A'}</span>
+                  <span style={{ fontSize: '0.95rem', fontWeight: 600, color: '#1f2937' }}>{ '2027'}</span>
                 </div>
                 <div style={{ width: '1px', background: '#e5e7eb', alignSelf: 'stretch' }} />
 
@@ -248,7 +248,7 @@ export const Home = ({ userEmail, studentData, onSignOut, onSelectAccommodation,
                     background: studentData.Bursary === 'NSFAS' ? '#d1fae5' : '#fef3c7',
                     padding: '0.2rem 0.75rem', borderRadius: '20px', display: 'inline-block',
                   }}>
-                    {studentData.Bursary || 'N/A'}
+                    { 'NSFAS'}
                   </span>
                 </div>
               </div>
