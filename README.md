@@ -3,4 +3,5 @@
 ## UI Preview:
 
 <img width="95%" src="https://drive.google.com/file/d/1RUfAI9_nNg6QZtQlvQtcPbcaxja7gfKA/view?usp=sharing"/>
+<img width="95%" src="https://drive.google.com/thumbnail?id=148DX_e2OBBgg9BgnHHb04qRMe9-ePrLZ&sz=w1000"/>
 
