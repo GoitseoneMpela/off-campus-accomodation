@@ -8,6 +8,15 @@
 <img src="public/nextOfKinimage.png" width="500" />
 <img src="public/applicationSuccessfulimage.png" width="500" />
 <img src="public/proofimage.png" width="500" />
+#### The following Technologies were used:
+<img align="left" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img align="left" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
+<img  src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=%ffcc32"/>
+<ul>
+  <li>React Custom Hooks</li>
+  <li>React Context</li>
+  <li>React Styled Components</li>
+</ul>
 
 
 
